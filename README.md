@@ -64,11 +64,7 @@ To demonstrate practical skills in:
 
 ---
 
-## 📷 Dashboard Preview
 
-*(Add dashboard screenshot here)*
-
----
 
 ## 🚀 Future Improvements
 
